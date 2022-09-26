@@ -1,0 +1,576 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<VAST
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="4.2">
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="1">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>ff82a28b-dd9e-46aa-8b14-59a03c693711</AdServingId>
+			<AdTitle>SU2QDYBA.ts</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_ff82a28b-dd9e-46aa-8b14-59a03c693711 ]]>
+			</Error>
+			<Category authority="adportal.ch">Bumper</Category>
+			<Creatives>
+				<Creative id="Bumper_SAT.1_Beta_2Sek">
+					<Linear>
+						<Duration>00:00:02</Duration>
+						<TrackingEvents>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_ff82a28b-dd9e-46aa-8b14-59a03c693711&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="13773960" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6a5e2060-ecd0-46a2-b59c-ae721286e635.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6ca96e42-b837-45da-8522-81c6423182ae.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/da30a8c7-f895-425b-a2dd-8c1e0de0a9c0.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">Bumper_SAT.1_Beta_2Sek</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="2">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>2396acbc-1b26-4676-932e-fde593985adf</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD22 - (Emma_Biker_20s_chde_broadcast_2021) Emma Matratze</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181326">
+					<Linear>
+						<Duration>00:00:20</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_2396acbc-1b26-4676-932e-fde593985adf&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/f930c3a8-b2f0-4081-8509-b5ba9b8a0c49.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/dac6fc7a-7f6a-424c-a81f-870db7ae77a4.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/cb7221f1-da39-42ea-8aed-8a02c982333e.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181326</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="3">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>71017e22-c30b-4d07-a414-29d9fc761710</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD34 - (SBB Best Agers 1102 ) SBB</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710 ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181260">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/d5258b95-e859-4a74-bee2-770f624433dd.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6991f24d-302e-4faf-93a0-0e7857b21a35.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/3bde46bb-f8e3-41b4-9503-3ab03c4d4ecf.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/ef937bb8-7c04-4d8e-a375-ca2df1b734d8.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/768f7989-60f1-4c18-95eb-846e3a151c85.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181260</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="4">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>07a84c83-1845-4e30-ae1e-fc730ccbc030</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD24 - Alcohol(Somersby_TVC-2022_AO_BB_V03_R128_20sek_D) Feldschlöschen</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030 ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181293">
+					<Linear>
+						<Duration>00:00:20</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_07a84c83-1845-4e30-ae1e-fc730ccbc030&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/12c38ed4-bdac-4ede-9743-5301e59fb5de.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/79abc691-15a1-468e-b1b1-e9b979fee736.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/4f1fd746-6d69-4892-ad12-bdeaa68302a2.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/cfebc9c9-b4ec-438e-a853-677d9a5ea83b.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/c14bd4d2-fe55-4b1d-a4a0-641a2c118110.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181293</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="5">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>8e2e42d6-5b8f-4176-887d-2403ca3eb2db</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD28 - (CC Music The Conductor TVC de-CH en-CH 30s) Coca Cola</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181328">
+					<Linear>
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8e2e42d6-5b8f-4176-887d-2403ca3eb2db&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/8de1974a-b550-41b4-877f-a852a1641f20.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/3211fe3a-2896-4f69-9e79-df635cfd8bf4.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/d9bb2d46-bcab-477d-8494-27a06afd2e73.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/067c80c0-eeb4-47c8-a91f-2bec8812ecbe.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/52fee552-d9b2-4f91-b94c-91f128d870c5.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181328</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="6">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>db8483bb-2e6b-4d5f-9062-d63bbed771f1</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD6 - MPRO (Al Bronzo Spot 15s TVC) Barilla</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1 ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181241">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_db8483bb-2e6b-4d5f-9062-d63bbed771f1&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/af28c1eb-c052-4ced-b380-507b2953190d.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/4c726335-bb78-4287-aeca-e295ab529a64.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6aacee09-70a2-465f-b9d7-00df7c83146a.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/42e15919-4d82-425a-8def-dba6dd539d5f.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/36955159-3f2b-4ea5-ac7a-433e249e0787.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181241</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="7">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>228b6747-3de8-4b2d-b1c4-958beabd0e9f</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD1 - MPRO (Sanitas Health Forecast 28s) Sanitas Health Forecast</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181247">
+					<Linear>
+						<Duration>00:00:28</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/89b8a1a1-66ec-4bba-926e-865246027409.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7f676578-d996-44a8-ac4f-26a883c1c45a.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://devs.origin.cdn.cra.cz/delay/mid1.php ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/5bd3a121-2111-4fc4-bb42-b71d123fd0eb.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181247</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="8">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>16cfe20f-ebb1-44bf-a87d-60ce988dba44</AdServingId>
+			<AdTitle>SU2QDYBA.ts</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_16cfe20f-ebb1-44bf-a87d-60ce988dba44 ]]>
+			</Error>
+			<Category authority="adportal.ch">Bumper</Category>
+			<Creatives>
+				<Creative id="Bumper_SAT.1_Beta_2Sek">
+					<Linear>
+						<Duration>00:00:02</Duration>
+						<TrackingEvents>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_16cfe20f-ebb1-44bf-a87d-60ce988dba44&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="13773960" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6a5e2060-ecd0-46a2-b59c-ae721286e635.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/bb94ee3f-d832-4731-a172-3c84405c4f88.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6ca96e42-b837-45da-8522-81c6423182ae.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/da30a8c7-f895-425b-a2dd-8c1e0de0a9c0.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">Bumper_SAT.1_Beta_2Sek</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="9">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>8008bb2b-6df0-480b-af2d-60e5630247d9</AdServingId>
+			<AdTitle>ST2QK6E8.ts</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9 ]]>
+			</Error>
+			<Category authority="adportal.ch">Promotion</Category>
+			<Creatives>
+				<Creative id="Promo_Sat.1_Das grosse Backen">
+					<Linear skipoffset="00:00:07">
+						<Duration>00:00:10</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_8008bb2b-6df0-480b-af2d-60e5630247d9&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="19072404" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/a62e028c-6a9f-41cb-8304-ab4cffe31c7f.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/0864898a-564e-4bb9-a26f-c2f958725626.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/cfd78a50-949c-4d4a-b5a8-bcd03e265063.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/1aa10081-ee6c-4258-8eb9-aa633082ddca.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/228a821d-8775-466b-ac47-27e4bfe9c2bb.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">Promo_Sat.1_Das grosse Backen</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="10">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>228b6747-3de8-4b2d-b1c4-958beabd0e9f</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD1 - MPRO (Sanitas Health Forecast 28s) Sanitas Health Forecast</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181247">
+					<Linear>
+						<Duration>00:00:28</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_228b6747-3de8-4b2d-b1c4-958beabd0e9f&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/89b8a1a1-66ec-4bba-926e-865246027409.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7f676578-d996-44a8-ac4f-26a883c1c45a.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/f2623929-9dee-4a2f-8b82-a5b5a4c51e91.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/f4724fb8-ad0b-45e7-9618-57534098edae.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/5bd3a121-2111-4fc4-bb42-b71d123fd0eb.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181247</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>	
+	<Ad id="a3c1cbaa-2c08-40be-9f46-4f9201eda18c" sequence="11">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank"/>
+			<AdServingId>71017e22-c30b-4d07-a414-29d9fc761710</AdServingId>
+			<AdTitle>RAP - Betatest - FFWD34 - (SBB Best Agers 1102 ) SBB</AdTitle>
+			<Error>
+				<![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710 ]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="181260">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=a3c1cbaa-2c08-40be-9f46-4f9201eda18c_71017e22-c30b-4d07-a414-29d9fc761710&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp2t" bitrate="20000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/d5258b95-e859-4a74-bee2-770f624433dd.ts ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/6991f24d-302e-4faf-93a0-0e7857b21a35.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/3bde46bb-f8e3-41b4-9503-3ab03c4d4ecf.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/ef937bb8-7c04-4d8e-a375-ca2df1b734d8.mp4 ]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[ https://d3tmdej94wibm3.cloudfront.net/768f7989-60f1-4c18-95eb-846e3a151c85.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">181260</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
