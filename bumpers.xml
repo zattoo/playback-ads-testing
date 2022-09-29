@@ -1,0 +1,255 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="4.2">
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf6a" sequence="1">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf62" sequence="2">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>    
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf63" sequence="3">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad> 
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf64" sequence="4">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>     
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf65" sequence="5">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>         
+    <Ad id="92a68cc5-ce23-4941-9d07-5b74c8afbf66" sequence="6">
+        <InLine>
+            <AdSystem>RAP Demo</AdSystem>
+            <Impression id="about:blank"/>
+            <AdServingId>e01c8267-79ec-4bfb-8ac7-4dc18378d392</AdServingId>
+            <AdTitle>20220530_CHRTL05_KM14051395001F0Y.ts</AdTitle>
+            <Error>
+                <![CDATA[ https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392 ]]>
+            </Error>
+            <Category authority="adportal.ch">Bumper</Category>
+            <Creatives>
+                <Creative id="CHRTL05">
+                    <Linear>
+                        <Duration>00:00:02</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://prod-ad.adportal.ch/Tracking?adservingid=92a68cc5-ce23-4941-9d07-5b74c8afbf6a_e01c8267-79ec-4bfb-8ac7-4dc18378d392&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp2t" bitrate="22386112" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/39a7cb50-ff27-4b89-911f-9f8269bf8ca2.ts ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/e95ae23a-079a-4f49-b454-96d987c87ea7.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/7a44c535-5168-4a22-b12e-4769fba795a0.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/985c9ebb-b874-4044-9401-5d6b9eb0fc8c.mp4 ]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+                                <![CDATA[ https://d3tmdej94wibm3.cloudfront.net/2a279010-e4ea-441e-ac56-24fb5497fc47.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="Regid">CHRTL05</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>             
+</VAST>
