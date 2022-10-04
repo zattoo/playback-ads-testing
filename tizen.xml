@@ -24,16 +24,16 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/bb94ee3f-d832-4731-a172-3c84405c4f88.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
 								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/6ca96e42-b837-45da-8522-81c6423182ae.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/da30a8c7-f895-425b-a2dd-8c1e0de0a9c0.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
@@ -75,16 +75,16 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/e34ceea0-77cf-4482-8e6c-b7d1272906d1.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
 								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/156e5525-ff62-4aab-9a22-073981b3866f.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/de860580-ebf3-4845-9330-1e8f86ed2c7f.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
@@ -114,16 +114,16 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/bb94ee3f-d832-4731-a172-3c84405c4f88.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
 								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/6ca96e42-b837-45da-8522-81c6423182ae.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/da30a8c7-f895-425b-a2dd-8c1e0de0a9c0.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
@@ -133,6 +133,57 @@
 		</InLine>
 	</Ad>
 	<Ad id="75127a49-1b3e-422e-927e-64b1ee13b202" sequence="4">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank" />
+			<AdServingId>52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b</AdServingId>
+			<AdTitle>1688062_GERBER_15sek_Busfahrerin_DE</AdTitle>
+			<Error>
+				<![CDATA[https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="169363">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">169363</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>	
+	<Ad id="75127a49-1b3e-422e-927e-64b1ee13b202" sequence="5">
 		<InLine>
 			<AdSystem>RAP Demo</AdSystem>
 			<Impression id="about:blank" />
@@ -165,16 +216,16 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/113b3e4b-a5c4-44d7-9865-d5b24820932a.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
 								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/0cfbb04f-d254-4a56-9405-b12deff6425f.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/9f13b52a-ecce-4445-a4f6-d0ff809f8e1e.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
@@ -183,4 +234,106 @@
 			</Creatives>
 		</InLine>
 	</Ad>
+<Ad id="75127a49-1b3e-422e-927e-64b1ee13b202" sequence="6">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank" />
+			<AdServingId>52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b</AdServingId>
+			<AdTitle>1688062_GERBER_15sek_Busfahrerin_DE</AdTitle>
+			<Error>
+				<![CDATA[https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b]]>
+			</Error>
+			<Category authority="adportal.ch">Commercial</Category>
+			<Creatives>
+				<Creative id="169363">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_52e2e016-1f1d-4afb-a7b9-7a46b3dc9c7b&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="900" width="480" height="360">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/b8c19545-01cb-4aa1-b81f-e05aa430d9fc.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">169363</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>	
+	<Ad id="75127a49-1b3e-422e-927e-64b1ee13b202" sequence="7">
+		<InLine>
+			<AdSystem>RAP Demo</AdSystem>
+			<Impression id="about:blank" />
+			<AdServingId>833d25b4-875e-4265-8444-bdc945ce3197</AdServingId>
+			<AdTitle>ST2QM23E.ts</AdTitle>
+			<Error>
+				<![CDATA[https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197]]>
+			</Error>
+			<Category authority="adportal.ch">Promotion</Category>
+			<Creatives>
+				<Creative id="Sat.1_HochzeitaufdenerstenBlick_Top">
+					<Linear skipoffset="00:00:07">
+						<Duration>00:00:10</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
+							</MediaFile>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+					<UniversalAdId idRegistry="Regid">Sat.1_HochzeitaufdenerstenBlick_Top</UniversalAdId>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>	
 </VAST>
