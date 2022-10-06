@@ -5,37 +5,49 @@
 		<InLine>
 			<AdSystem>RAP Demo</AdSystem>
 			<Impression id="about:blank" />
-			<AdServingId>3dce7145-89dd-4304-a1fd-9db9fc69def7</AdServingId>
-			<AdTitle>SU2QDYBA.ts</AdTitle>
+			<AdServingId>833d25b4-875e-4265-8444-bdc945ce3197</AdServingId>
+			<AdTitle>ST2QM23E.ts</AdTitle>
 			<Error>
-				<![CDATA[https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=75127a49-1b3e-422e-927e-64b1ee13b202_3dce7145-89dd-4304-a1fd-9db9fc69def7]]>
+				<![CDATA[https://prod-ad.adportal.ch/Tracking/error?c=[ERRORCODE]&a=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197]]>
 			</Error>
-			<Category authority="adportal.ch">Bumper</Category>
+			<Category authority="adportal.ch">Promotion</Category>
 			<Creatives>
-				<Creative id="Bumper_SAT.1_Beta_2Sek">
+				<Creative id="Sat.1_HochzeitaufdenerstenBlick_Top">
 					<Linear>
-						<Duration>00:00:02</Duration>
+						<Duration>00:00:10</Duration>
 						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=firstQuartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=thirdQuartile]]>
+							</Tracking>
 							<Tracking event="complete">
-								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_3dce7145-89dd-4304-a1fd-9db9fc69def7&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete]]>
+								<![CDATA[https://prod-ad.adportal.ch/Tracking?adservingid=75127a49-1b3e-422e-927e-64b1ee13b202_833d25b4-875e-4265-8444-bdc945ce3197&APIKey=72f25fe3-0aee-43f0-a82f-e3d194661a37&event=complete]]>
 							</Tracking>
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="2500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1500" width="1280" height="720">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="1000" width="480" height="360">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 							<MediaFile delivery="progressive" type="video/mp4" bitrate="4000" width="1920" height="1080">
-								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/c16a48d9-d4d2-4ffa-94e5-01ba4ff7c491.mp4]]>
+								<![CDATA[https://d3tmdej94wibm3.cloudfront.net/09e55b5b-d75f-4e91-beff-fdeb116398bb.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
-					<UniversalAdId idRegistry="Regid">Bumper_SAT.1_Beta_2Sek</UniversalAdId>
+					<UniversalAdId idRegistry="Regid">Sat.1_HochzeitaufdenerstenBlick_Top</UniversalAdId>
 				</Creative>
 			</Creatives>
 		</InLine>
